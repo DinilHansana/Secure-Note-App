@@ -4,7 +4,7 @@ def init_db():
     conn = sqlite3.connect("sakura.db")
     c = conn.cursor()
 
-    # Create users table
+    
     c.execute("""
         CREATE TABLE IF NOT EXISTS users (
             id INTEGER PRIMARY KEY AUTOINCREMENT,
@@ -15,7 +15,7 @@ def init_db():
         )
     """)
 
-    # Create notes table
+    
     c.execute("""
         CREATE TABLE IF NOT EXISTS notes (
             id INTEGER PRIMARY KEY AUTOINCREMENT,
