@@ -5,7 +5,7 @@ import base64
 
 SALT_SIZE = 16
 NONCE_SIZE = 12
-KEY_LENGTH = 32  # AES-256
+KEY_LENGTH = 32  
 PBKDF2_ITERATIONS = 100000
 
 def derive_key(password: str, salt: bytes) -> bytes:
