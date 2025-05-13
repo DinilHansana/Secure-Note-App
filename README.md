@@ -118,7 +118,7 @@ SecureNoteApp/
 
 - Author: Hewawasam Hansana
 
-- Platform tested: macOS 13, Python 3.12
+- Platform tested: macOS 15.3, Python 3.12
 
 - Also compatible: Windows 10+, Python 3.10+
 
