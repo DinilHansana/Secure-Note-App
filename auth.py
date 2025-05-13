@@ -15,7 +15,7 @@ def verify_password(password: str, salt: bytes, hashed: bytes) -> bool:
     test_hash = hashlib.pbkdf2_hmac('sha256', password.encode(), salt, PBKDF2_ITERATIONS)
     return test_hash == hashed
 
-# 2FA
+
 def generate_2fa_secret() -> str:
     return pyotp.random_base32()
 
