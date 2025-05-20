@@ -43,7 +43,7 @@ SecureNoteApp is a beautifully designed, secure, and offline-first note-taking a
 1. **Clone or download** this repo:
 
 ```bash
-git clone https://github.com/your-username/SecureNoteApp.git
+git clone https://github.com/your-username/SecureNoteApp.git](https://github.com/DinilHansana/Secure-Note-App.git
 cd SecureNoteApp
 ```
 <br>
