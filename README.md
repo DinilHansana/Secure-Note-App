@@ -1,6 +1,10 @@
 # 🛡️ SecureNoteApp
 
-SecureNoteApp is a beautifully designed, secure, and offline-first note-taking application built using Python and CustomTkinter. It supports encrypted note storage, 2FA login, dark/light themes, categories, and local backup — all in a clean modern interface.
+SecureNoteApp is a beautifully designed, secure, and offline-first note-taking application built using Python and CustomTkinter. It supports encrypted note storage, 2FA login, dark/light themes, categories, and local backup — all in a clean, modern interface.
+
+This is the Public Repository of the Secure-Note-App. You can either clone this and run (Step by Step Guide below) or use the submitted zip file to get the source code.
+
+GitHub Repository Link:- https://github.com/DinilHansana/Secure-Note-App.git
 
 ---
 
